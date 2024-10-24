@@ -1,0 +1,20 @@
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+}
+h2 {
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+}
+body {
+  font-family: 'Libre Baskerville', serif; /* Utilizza Libre Baskerville come font principale */
+}
+
+/* Altri stili CSS */
+h1, h2 {
+  font-family: 'Merriweather', serif; /* Utilizza Merriweather per titoli */
+}
+
