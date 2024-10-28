@@ -9,7 +9,7 @@
   <description>Jakarta EE 8 + MicroProfile 3.X blank template with System tests</description>
       
   
-  <groupId>timesheet</groupId>
+  <groupId>esame</groupId>
       
   
   <artifactId>exame-service</artifactId>

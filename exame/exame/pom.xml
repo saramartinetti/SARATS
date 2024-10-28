@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>exame-service</artifactId>
-        <groupId>timesheet</groupId>
+        <groupId>esame</groupId>
         <version>1</version>
     </parent>
-    <groupId>timesheet</groupId>
+    <groupId>esame</groupId>
     <artifactId>exame</artifactId>
     <version>1</version>
     <packaging>war</packaging>
