@@ -6,7 +6,7 @@
         <groupId>esame</groupId>
         <version>1</version>
     </parent>
-    <groupId>esame</groupId>
+    <groupId>exame</groupId>
     <artifactId>exame</artifactId>
     <version>1</version>
     <packaging>war</packaging>
