@@ -10,6 +10,8 @@ import { AuthService } from '../../core/auth.service';
   styleUrls: ['./login.component.css']
 })
 
+
+
 export class LoginComponent implements OnInit {
 
   islogin:boolean = true;

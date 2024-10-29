@@ -22,12 +22,14 @@
     box-sizing: border-box;
   }
   
+
+
   .btn {
     width: 100%;
   }
   
   .error-message {
-    color: rgb(255, 0, 0);
+    color: rgb(255, 47, 47);
     font-size: 12px;
     margin-top: 5px;
   }

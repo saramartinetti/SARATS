@@ -1,5 +1,4 @@
 .navbar {
-  background-image: url('/immagini/copertina.webp'); /* Percorso dell'immagine di sfondo */
   background-size: cover; /* Copre l'intera navbar */
   background-position: center; /* Centro dell'immagine */
   color: white; /* Colore del testo */
